@@ -1,0 +1,13 @@
+body{
+    background-color: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+hr{
+    border: sienna;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0px;
+    width: 60%;
+}
